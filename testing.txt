@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyek Pertama Saya</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; margin-top: 50px; }
+        h1 { color: #2c3e50; }
+    </style>
+</head>
+<body>
+    <h1>Halo, GitHub!</h1>
+    <p>Ini adalah website pertama saya yang diunggah ke repositori.</p>
+</body>
+</html>
